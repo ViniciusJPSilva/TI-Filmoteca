@@ -1,0 +1,24 @@
+##Filme 1
+Batman Begins; 2005; 15/06/2005; 13; 2h 20m; 8.2
+sinopse=Depois de treinar com seu mentor, Batman começa sua luta para libertar Gotham City, dominada pelo crime, da corrupção.
+gêneros=Ação; Crime; Drama
+diretor=Christopher Nolan
+autores=Christopher Nolan; David S. Goyer
+elenco=Christian Bale; Liam Neeson; Michael Caine; Katie Holmes; Gary Oldman; Morgan Freeman; Cillian Murphy
+
+##Filme 2
+The Dark Knight; 2008; 18/07/2008; 12; 2h 32m; 9
+sinopse=Quando a ameaça conhecida como O Coringa surge de seu passado, causa estragos e caos nas pessoas de Gotham. O Cavaleiro das Trevas deve aceitar um dos maiores testes para combater a injustiça.
+gêneros=Ação; Crime; Drama
+diretor=Christopher Nolan
+autores=Jonathan Nolan; Christopher Nolan; David S. Goyer
+elenco=Christian Bale; Heath Ledger; Aaron Eckhart; Michael Caine; Maggie Gyllenhaal; Gary Oldman; Morgan Freeman
+
+##Filme 3
+The Dark Knight Rises; 2012; 20/07/2012; 13; 2h 44m; 8.4
+sinopse=Oito anos após o reinado de anarquia do Coringa, Batman, com a ajuda da enigmática Mulher-Gato, é forçado a sair de seu exílio para salvar Gotham City do brutal terrorista guerrilheiro Bane.
+gêneros=Ação; Crime; Drama
+diretor=Christopher Nolan
+autores=Jonathan Nolan; Christopher Nolan; David S. Goyer
+elenco= Christian Bale; Heath Ledger; Aaron Eckhart; Michael Caine; Maggie Gyllenhaal; Gary Oldman; Morgan Freeman
+

@@ -1,0 +1,82 @@
+##Filme1
+The Dark Knight; 2008; 18/07/2008; 12; 2h 32m; 9
+sinopse=Quando a ameaça conhecida como O Coringa surge de seu passado, causa estragos e caos
+nas pessoas de Gotham. O Cavaleiro das Trevas deve aceitar um dos maiores testes para combater a 
+injustiça.
+gêneros=Ação; Crime; Drama
+diretor=Christopher Nolan
+autores=Jonathan Nolan; Christopher Nolan; David S. Goyer
+elenco=Christian Bale; Heath Ledger; Aaron Eckhart; Michael Caine; Maggie Gyllenhaal; Gary Oldman; 
+Morgan Freeman; pessoa1; pessoa2; pessoa3; pessoa4; pessoa5; pessoa6
+
+##Filme2
+The Dark Knight Rises; 2012; 20/07/2012; 13; 2h 44m; 8.4
+sinopse=Oito anos após o reinado de anarquia do Coringa, Batman, com a ajuda da enigmática
+Mulher-Gato, é forçado a sair de seu exílio para salvar Gotham City do brutal terrorista guerrilheiro
+Bane.
+gêneros=Ação; Crime; Drama
+diretor=Christopher Nolan
+autores=Jonathan Nolan; Christopher Nolan; David S. Goyer
+elenco=Christian Bale; Heath Ledger; Aaron Eckhart; Michael Caine; Maggie Gyllenhaal; Gary Oldman;
+Morgan Freeman
+
+##Filme3
+Batman Begins; 2005; 15/06/2005; 13; 2h 20m; 8.2
+sinopse=Depois de treinar com seu mentor, Batman começa sua luta para libertar Gotham City,
+dominada pelo crime, da corrupção.
+gêneros=Ação; Crime; Drama
+diretor=Christopher Nolan
+autores=Christopher Nolan; David S. Goyer
+elenco=Christian Bale; Liam Neeson; Michael Caine; Katie Holmes; Gary Oldman; Morgan Freeman;
+Cillian Murphy
+
+##Filme4
+O Senhor dos Anéis: A Sociedade do Anel; 2001; 01/06/2000; 12; 2h 58m; 8.8
+sinopse=Em uma terra fantástica e única, um hobbit recebe de presente de seu tio um anel mágico
+e maligno que precisa ser destruído antes que caia nas mãos do mal. Para isso, o hobbit Frodo
+tem um caminho árduo pela frente, onde encontra perigo, medo e seres bizarros. Ao seu lado para o
+cumprimento desta jornada, ele aos poucos pode contar com outros hobbits, um elfo, um anão, dois
+humanos e um mago, totalizando nove seres que formam a Sociedade do Anel.
+gêneros=Fantasia; Drama; Aventura
+diretor=Peter Jackson
+autores=J. R. R. Tolkien
+elenco=Elijah Wood; Ian McKellen; Viggo Mortensen; Sean Astin; Orlando Bloom
+
+##Filme5
+Forrest Gump: O Contador de Histórias; 1994; 07/12/1994; 14; 2h 22m; 8.8
+sinopse=As presidências de Kennedy e Johnson, os eventos do Vietnã, Watergate e outra história são desenvolvidos através da perspectiva de um homem do Alabama com um alto quociente Intelectual.
+gêneros=Drama; Romance; Comédia
+diretor=Robert Zemeckis
+autores=Winston Groom; Eric Roth
+elenco=Tom Hanks; Robin Wright; Gary Sinise; Mykelti Williamson; Sally Field
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
